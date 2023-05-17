@@ -1,0 +1,15 @@
+apple,bee,602
+john,mac2,22
+sss,0,110
+abc,yo,4000
+aaa,bbb,0
+sdfsdfsdf,sdfsafd,0
+a,a,0
+12321,98798,0
+asd,,0
+APPLE,BEE,0
+098,098,500
+asdf,ewkjr,0
+askldfj,owerj-324,0
+sdf,sdf,110
+ppppp,ppppp,0
