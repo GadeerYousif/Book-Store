@@ -1,1 +1,1 @@
-This is a basic bookstore app. You can find the logins for the application in the text files. Depending on your screen size, the UI may look abit weird, just pres esc and resize the window and it should fix it. 
+This is a basic bookstore app. You can find the logins for the application in the text files. Depending on your screen size, the UI may look abit unusual, just press esc and resize the window and it should fix it. 
